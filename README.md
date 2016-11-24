@@ -5,7 +5,7 @@ This is a simple **Maven** project demonstrating the use of the [MongoDb Java dr
 In order to use this example, you need to setup your own MongoDb.
 
 ### Authentication
-To connect to your database, take a look at the `DefaultAuth` class and enter your credentials:
+To connect to your database, modify the `DefaultAuth` class and enter your credentials:
 
 ```java
 public final class DefaultAuth extends DbAuth {
