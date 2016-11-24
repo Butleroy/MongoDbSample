@@ -1,14 +1,8 @@
 package io.myalfred.mongodb.databases;
 
-/**
- * Class that stores static final Strings to all collections available in the Alfred mongodb.
- * 
- * @author Philipp Jahoda
- *
- */
 public abstract class Collections {
 
-	public static final String TEST_DATA_BOOKSTORE = "testdatabookstore";
-	public static final String TEST_DATA_BOOK = "testdatabook";
-	public static final String TEST_DATA_AUTHOR = "testdataauthor";
+	public static final String TEST_DATA_BOOKSTORE = "testdata_bookstores";
+	public static final String TEST_DATA_BOOK = "testdata_books";
+	public static final String TEST_DATA_AUTHOR = "testdata_authors";
 }
