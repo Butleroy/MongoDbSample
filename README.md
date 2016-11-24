@@ -29,7 +29,7 @@ The data this sample stores into MongoDb looks similar to the following.
 
 **"bookstores"** collection:
 
-```json
+```xml
 {
     "_id" : ObjectId("5835b19b4e5a9ca2509e4384"),
     "name" : "Thalia",
@@ -43,7 +43,7 @@ The data this sample stores into MongoDb looks similar to the following.
 
 **"books"** collection:
 
-```json
+```xml
 {
     "_id" : ObjectId("5835b19b4e5a9ca2509e437e"),
     "author" : ObjectId("5835b19a4e5a9ca2509e437c"),
@@ -69,7 +69,7 @@ The data this sample stores into MongoDb looks similar to the following.
 
 **"authors"** collection:
 
-```json
+```xml
 {
     "_id" : ObjectId("5835b19a4e5a9ca2509e437c"),
     "firstName" : "Dan",
