@@ -1,5 +1,5 @@
 ### MongoDbSample
-This is a simple **Maven** project demonstrating the use of the [MongoDb Java driver](https://docs.mongodb.com/ecosystem/drivers/java/).
+This is a simple **Maven** project demonstrating the use of the [MongoDb Java driver](https://docs.mongodb.com/ecosystem/drivers/java/) with the example of a bookstore containing books which have authors.
 
 ### Setup MongoDb
 In order to use this example, you need to setup your own MongoDb.
